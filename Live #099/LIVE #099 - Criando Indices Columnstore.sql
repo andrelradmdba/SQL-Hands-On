@@ -1,7 +1,5 @@
 /*******************************************
- Alteracao 3 - 
- 
- Autor: Landry Duailibe
+ Autor: Andre Ribeiro
 
  Hands On: Criando Indice Columnstore
 ********************************************/ 
