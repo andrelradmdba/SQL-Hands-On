@@ -1,4 +1,6 @@
 /*******************************************
+ Alteracao 1 - 
+ 
  Autor: Landry Duailibe
 
  Hands On: Criando Indice Columnstore
